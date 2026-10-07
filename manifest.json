@@ -1,0 +1,13 @@
+{
+  "name": "LISA'S ADVENTURE",
+  "short_name": "Lisa",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1b1b2f",
+  "theme_color": "#1b1b2f",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
